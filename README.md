@@ -50,7 +50,7 @@ wip
 ## Команда
 
 - [Anastasis Klowait](https://t.me/nstsj) - разработчик в DeepPavlov
-- [Lida Ostyakova](https://t.me/lostaaa15) - старший лаборантв DeepPavlov
+- [Lida Ostyakova](https://t.me/lostaaa15) - старший лаборант в DeepPavlov
 - [Anastasiia Pokasova](https://t.me/neoisalie) - лаборант в DeepPavlov
 - [Daria Ledneva](https://t.me/LadaNik13) - лаборант в DeepPavlov
 - [Dilyara Zharikova](https://t.me/dilyararimovna) - старший исследователь в DeepPavlov
