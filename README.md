@@ -38,20 +38,13 @@
 ### DeepPavlov
 wip
 
-### Диалоговые системы ( Dream )
+### Диалоговые системы. Погружение в Dream
 Диалоговые системы. (Виды, архитектуры, основные фреймворки. Построению диалоговой системы на Dream Builder)
 
 Лектор/Семинарист: [Dilyara Zharikova](https://t.me/dilyararimovna)
-### Диалоговые системы. На примере DialogFlowFramework
+### Диалоговые системы. Погружение в DialogFlowFramework
 
 Лектор/Семинарист: [Denis Kuznetsov](https://t.me/kudep)
-
-
-Дилиара Жарикова
-мой телеграм https://t.me/dilyararimovna
-моя почта dilyara.rimovna@gmail.com
-github https://github.com/dilyararimovna
-
 
 
 ## Команда
