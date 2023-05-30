@@ -25,8 +25,17 @@
 
 Лектор/Семинарист: [Lida Ostyakova](https://t.me/lostaaa15)
 
-### Pytorch/ Lightning/ Pytorch + MLOp
+### Pytorch/ Lightning/ Pytorch + MLOps
 
+План: 
+- Строить: 
+  - основные понятия Pytorch: тензоры, операции на тензорах; градиенты, автоматический расчет градиентов (Pytorch Autograd);
+  - DataParallel в Pytorch, реализация FSDP (Fully Sharded Data Parallel) в Pytorch;
+  - упрощение обучения моделей с помощью Pytorch Lightning: разбор стратегий и ускорителей (Trainer, Strategy, Accelerator);
+  - упрощение подбора гиперпараметров с помощью Ray Tune: рассмотрение полного цикла проведения эксперимента (Trainable, Tuner, Scheduler, etc);
+  - упрощение деплоя модели с помощью Ray Serve: основные понятия и сравнение с другими фреймворками (torchserve, Bento.ML, CometML);
+- Ломать: 
+  - атаки на нейронные сети: one-pixel attack и аттаки с градиентами.
 
 Лектор/Семинарист: [Anastasiia Pokasova](https://t.me/neoisalie)
 
