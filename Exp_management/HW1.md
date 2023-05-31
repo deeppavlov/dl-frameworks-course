@@ -9,7 +9,7 @@
 ## Шаги
 
 ### Dataset
-[живет по этой ссылке](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset/blob/master/ethos/ethos_data/Ethos_Dataset_Binary.csv).
+поработаем с данными для бинарной классификации хейт-спича(eng). Датасет [живет по этой ссылке](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset/blob/master/ethos/ethos_data/Ethos_Dataset_Binary.csv). 
 
 ### Model Selection
 Выберите модель/архитектуру, с которой вам было бы интересно поработать(классические, как random forest, KNN или DL-модели, типа CNN и тд). Расскажите, почему вы выбрали именно эту модель.<br>
